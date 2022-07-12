@@ -3,8 +3,8 @@ hide:
   - footer
 ---
 
-# about
+# stephanie isan
 
-![alt text](assets/toaster.png)
 
-stephanie isan is a toaster from california
+<img src = "../assets/saver.jpg" alt="testing" style = "border-radius: 50%;width:250px; height:250px;">
+

@@ -9,10 +9,11 @@ nav:
 extra:
   social:
     - icon: fontawesome/brands/twitter 
-      link: https://twitter.com/squidfunk
-      name: squidfunk on Twitter
+      link: https://twitter.com/srirachachang
+      name: stephanie on twitter
 extra_css:
   - stylesheets/contact_form.css
+  - stylesheets/pics.css
 markdown_extensions:
     - toc:
         toc_depth : "1-1"
