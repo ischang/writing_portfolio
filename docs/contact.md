@@ -35,5 +35,3 @@ just in case you wanted to drop a line or send a description of your dog/cat/fer
 		</section>
 	</div>
 </section>
-
-[:fontawesome-brands-twitter:{ .twitter }](https://twitter.com/srirachachang)

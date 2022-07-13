@@ -9,8 +9,7 @@ nav:
 extra:
   generator: false
 extra_css:
-  - stylesheets/contact_form.css
-  - stylesheets/pics.css
+  - stylesheets/extras.css
 markdown_extensions:
     - meta
     - pymdownx.emoji:

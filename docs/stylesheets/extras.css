@@ -4,13 +4,32 @@
 #about_pic {
     border-radius: 20px;
     width: 230px;
-    filter: drop-shadow(8px 8px 10px gray);
+    filter: drop-shadow(2px 2px 4px gray);
     align: left;
 }
 
+/* twitter color */
 .twitter {
     color: #1DA1F2;
 }
+
+h2 {
+    color: var(--md-accent-fg-color);
+    text-decoration: underline;
+}
+
+@keyframes heart {
+  0%, 40%, 80%, 100% {
+    transform: scale(1);
+  }
+  20%, 60% {
+    transform: scale(1.15);
+  }
+}
+.heart {
+  animation: heart 1000ms infinite;
+}
+
 /* header for banner */
 .md-header__inner {
     letter-spacing: .5em;

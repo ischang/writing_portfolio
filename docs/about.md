@@ -1,15 +1,13 @@
 ---
 hide:
   - footer
-  - toc
 ---
 
 # about
 
 <img id="about_pic" align=left src = "../assets/propic3.png" alt="me i guess"> 
-
-
-## ![hot sauce](assets/hot-sauce.png){  width="40" } bio
+ 
+## ![boba](assets/hot-sauce.png){  width="40" }bio
 
 Stephanie Isan (she/they) is a queer, Taiwanese American writer and software engineer from the California bay area. 
 
@@ -19,7 +17,7 @@ In her free time, she likes to, in no particular order: take long walks on air-c
 
 She currently lives with her sixteen crane machine plushies, two grumpy tabby cats, one howling beagle mix, and her partner <s> in an Asian pear tree </s> on the US east coast.
 
-## ![boba](assets/boba.png){  width="40" } testimonials 
+## ![boba](assets/boba.png){  width="40" }testimonials 
 
 - "...Violent Asian American Power Couple" ~ Slightly unwashed, possibly deranged, definitely terrifying man harassing her, her partner, and the baristas (suburban coffee shop, 2022)
 
@@ -27,12 +25,12 @@ She currently lives with her sixteen crane machine plushies, two grumpy tabby ca
 
 - "...has a big zit on her cheek. Also needs to stop biting her nails." ~ Older sibling (dim sum parking lot, 2012)
 
-- "Can probably drink twice her weight in La Croix." ~ Friendly co-worker (company kitchen, 2017)
+- "Lots of Pusheen plushies on her desk. Can probably drink twice her weight in La Croix." ~ Friendly co-worker (watercooler, 2017)
 
 - "aWOOOooOoOoOOooo" ~ Her dog (dog park, every time)
 
 
-## ![egg](assets/eggs.png){  width="40" } credits
+## ![egg](assets/eggs.png){  width="40" }credits
 
 #### site 
 &nbsp; Site generated with [Material for mkdocs](https://squidfunk.github.io/mkdocs-material/)
@@ -41,10 +39,10 @@ She currently lives with her sixteen crane machine plushies, two grumpy tabby ca
 &nbsp; Yoinked from <a target="_blank" href="https://icons8.com">Icons8</a>:
 
 <ul style="list-style-type: none; line-height: 1em! important;">
-  <li><a href="https://icons8.com/icon/COT3n5g0HNI9/soy-sauce">Soy Sauce</a> icon</li>
-  <li> <a href="https://icons8.com/icon/b3SmnBWFR09w/boba">Boba</a> icon</li>
-  <li> <a href="https://icons8.com/icon/At5OBthGDHYJ/hot-sauce">Hot Sauce</a> icon </li>
-  <li> <a href="https://icons8.com/icon/30198/toaster">Toaster</a> icon </li>
-  <li> <a href="https://icons8.com/icon/37880/sunny-side-up-eggs">Sunny Side Up Eggs</a> icon </li>
-  <li> <a href="https://icons8.com/icon/np5aaglr7Ddq/raccoon">Raccoon</a> icon </li>
+  <li><a target="_blank" href="https://icons8.com/icon/COT3n5g0HNI9/soy-sauce">Soy Sauce</a> icon</li>
+  <li> <a target="_blank" href="https://icons8.com/icon/b3SmnBWFR09w/boba">Boba</a> icon</li>
+  <li> <a target="_blank" href="https://icons8.com/icon/At5OBthGDHYJ/hot-sauce">Hot Sauce</a> icon </li>
+  <li> <a target="_blank" href="https://icons8.com/icon/30198/toaster">Toaster</a> icon </li>
+  <li> <a target="_blank" href="https://icons8.com/icon/37880/sunny-side-up-eggs">Sunny Side Up Eggs</a> icon </li>
+  <li> <a target="_blank" href="https://icons8.com/icon/np5aaglr7Ddq/raccoon">Raccoon</a> icon </li>
 </ul>
