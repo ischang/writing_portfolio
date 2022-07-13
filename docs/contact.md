@@ -1,8 +1,9 @@
 ---
 hide:
   - footer
+  - toc
 ---
-# <img src="../assets/raccoon.png" style="height:30px;"> contact 
+# ![raccoon](assets/raccoon.png){  width="50" } &nbsp; contact 
 
 just in case you wanted to drop a line or send a description of your adorably cute dog/cat/ferret/parakeet/raccoon: 
 
@@ -13,7 +14,7 @@ just in case you wanted to drop a line or send a description of your adorably cu
 <section id="contact">
 	<div class="inner">
 		<section>
-			<form action="https://formspree.io/{{ site.email }}" method="POST">
+			<form action="https://formspree.io/f/xzbolwbb" method="POST">
 				<div class="field half first">
 					<label class = "contact_labels" for="name">Name</label>
 					<input type="text" name="name" id="name" required/>
@@ -34,3 +35,6 @@ just in case you wanted to drop a line or send a description of your adorably cu
 		</section>
 	</div>
 </section>
+
+[:fontawesome-brands-twitter:{ .twitter }](https://twitter.com/srirachachang)
+[]

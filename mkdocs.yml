@@ -10,13 +10,16 @@ extra:
   social:
     - icon: fontawesome/brands/twitter 
       link: https://twitter.com/srirachachang
-      name: stephanie on twitter
 extra_css:
   - stylesheets/contact_form.css
   - stylesheets/pics.css
 markdown_extensions:
-    - toc:
-        toc_depth : "1-1"
+    - meta
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
+    - attr_list
+    - md_in_html
 theme:
   name: material
   logo: assets/soy-sauce.png
@@ -24,14 +27,7 @@ theme:
     - header.autohide
   palette: 
     # Palette toggle for light mode
-    - media: "(prefers-color-scheme)"
-      scheme: default
-      primary: pink
-      accent: pink
-      toggle:
-        icon: material/brightness-4
-        name: Switch to system preference
-    - media: "(prefers-color-scheme: light)"
+    - media: "(prefers-color-scheme: dark)"
       scheme: default
       primary: pink
       accent: pink
@@ -39,7 +35,7 @@ theme:
         icon: material/weather-night 
         name: Switch to dark mode
     # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
+    - media: "(prefers-color-scheme: light)"
       scheme: slate
       primary: pink
       accent: pink

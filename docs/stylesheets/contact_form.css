@@ -1,6 +1,9 @@
 /* font header banner */
 @import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
 
+.twitter {
+    color: #1DA1F2;
+}
 /* header for banner */
 .md-header__inner {
     letter-spacing: .5em;
@@ -11,6 +14,11 @@
 /* fix weird spacing between h1s*/ 
 .md-typeset h1 { 
     margin: 0 0 0.5em 0 !important;
+}
+
+/* i wanted closer spacing in pubs page for h2s */
+.pubs_honors h2 {
+    margin: 1.0em 0 0.5em 0 !important;
 }
 
 /*contact form */
