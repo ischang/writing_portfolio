@@ -1,6 +1,13 @@
 /* font header banner */
 @import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
 
+#about_pic {
+    border-radius: 20px;
+    width: 230px;
+    filter: drop-shadow(8px 8px 10px gray);
+    align: left;
+}
+
 .twitter {
     color: #1DA1F2;
 }

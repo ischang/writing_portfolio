@@ -3,12 +3,12 @@ hide:
   - footer
   - toc
 ---
-# ![raccoon](assets/raccoon.png){  width="50" } &nbsp; contact 
+# ![GOOD RACOON](assets/raccoon.png){  width="50" } &nbsp; contact 
 
-just in case you wanted to drop a line or send a description of your adorably cute dog/cat/ferret/parakeet/raccoon: 
+just in case you wanted to drop a line or send a description of your dog/cat/ferret/parakeet/raccoon: 
 
 <div style="font-size:80%">
-<span style="color:red;">*</span> indicates a required field.
+	<span style="color:red;">*</span> indicates a required field.
 </div>
 
 <section id="contact">
@@ -37,4 +37,3 @@ just in case you wanted to drop a line or send a description of your adorably cu
 </section>
 
 [:fontawesome-brands-twitter:{ .twitter }](https://twitter.com/srirachachang)
-[]

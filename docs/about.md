@@ -5,11 +5,8 @@ hide:
 ---
 
 # about
-<div style="align:left;"
- <figure markdown>
-   ![hot sauce](assets/hot-sauce.png){  width="300" align=left } 
- </figure>
-</div>
+
+<img id="about_pic" align=left src = "../assets/propic3.png" alt="me i guess"> 
 
 
 ## ![hot sauce](assets/hot-sauce.png){  width="40" } bio
@@ -24,24 +21,24 @@ She currently lives with her sixteen crane machine plushies, two grumpy tabby ca
 
 ## ![boba](assets/boba.png){  width="40" } testimonials 
 
-- "violent asian american power couple" ~ slightly unwashed, possibly deranged, definitely terrifying man harassing her, her partner, and the baristas (suburban coffee shop, 2022)
+- "...Violent Asian American Power Couple" ~ Slightly unwashed, possibly deranged, definitely terrifying man harassing her, her partner, and the baristas (suburban coffee shop, 2022)
 
-- "very nice. very beautiful. 漂亮, because i gave birth to you" ~ her mother (somewhere in tainan city on a video call, 2021)
+- "Nice & smart girl. 漂亮, because I gave birth to her." ~ Her mother (somewhere in Tainan City on a video call, 2021)
 
-- "has a big zit on her cheek. also, needs to stop biting her nails" ~ older sibling (parking lot, 2012)
+- "...has a big zit on her cheek. Also needs to stop biting her nails." ~ Older sibling (dim sum parking lot, 2012)
 
-- "can probably drink twice her weight in la croix" ~ co-worker (company kitchen, 2017)
+- "Can probably drink twice her weight in La Croix." ~ Friendly co-worker (company kitchen, 2017)
 
-- "awooOooOoOoOOooo" ~ her dog (dog park, every time)
+- "aWOOOooOoOoOOooo" ~ Her dog (dog park, every time)
 
 
 ## ![egg](assets/eggs.png){  width="40" } credits
 
 #### site 
-&nbsp; site generated with [material for mkdocs](https://squidfunk.github.io/mkdocs-material/)
+&nbsp; Site generated with [Material for mkdocs](https://squidfunk.github.io/mkdocs-material/)
 
 #### icons 
-&nbsp; yoinked from <a target="_blank" href="https://icons8.com">Icons8</a>:
+&nbsp; Yoinked from <a target="_blank" href="https://icons8.com">Icons8</a>:
 
 <ul style="list-style-type: none; line-height: 1em! important;">
   <li><a href="https://icons8.com/icon/COT3n5g0HNI9/soy-sauce">Soy Sauce</a> icon</li>

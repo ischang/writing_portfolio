@@ -7,5 +7,6 @@ hide:
 # stephanie isan
 
 
-<img src = "../assets/saver.jpg" alt="testing" style = "border-radius: 50%;width:250px; height:250px;">
+<img src = "../assets/propic2.png" alt="me i guess" style = "border-radius:50%;width:230px; filter: drop-shadow(8px 8px 10px gray);"> 
 
+`some witty tagline here`

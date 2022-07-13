@@ -7,9 +7,7 @@ nav:
   - publications & honors: publications.md
   - contact: contact.md
 extra:
-  social:
-    - icon: fontawesome/brands/twitter 
-      link: https://twitter.com/srirachachang
+  generator: false
 extra_css:
   - stylesheets/contact_form.css
   - stylesheets/pics.css
