@@ -35,6 +35,9 @@ She currently lives with her sixteen crane machine plushies, two grumpy grey tab
 
 ## ![eggs](assets/eggs.png){  width="40" }credits
 
+#### photos
+&nbsp; Credit demanded by: partner  :fontawesome-solid-heart:{ .heart }
+
 #### site 
 &nbsp; Site generated with [Material for mkdocs](https://squidfunk.github.io/mkdocs-material/)
 

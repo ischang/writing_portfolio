@@ -6,7 +6,7 @@ hide:
 
 # :fontawesome-solid-quote-left:{ .quote } stephanie isan :fontawesome-solid-quote-right:{ .quote }
 
-<img src = "../assets/propic2.png" alt="me i guess" style = "border-radius:50%;width:330px; filter: drop-shadow(2px 2px 4px gray);"> 
+<img id="home_pic" src = "../assets/propic2.png" alt="me i guess"> 
 
 
 Writer, programmer, and three-time playground swing champion (neighborhood regional) 
