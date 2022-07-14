@@ -4,7 +4,7 @@
 #about_pic {
     border-radius: 20px;
     width: 230px;
-    filter: drop-shadow(2px 2px 4px gray);
+    filter: drop-shadow(1px 1px 10px gray);
     align: left;
 }
 
@@ -26,8 +26,10 @@ h2 {
     transform: scale(1.15);
   }
 }
+
 .heart {
-  animation: heart 1000ms infinite;
+  color: lightpink;
+  animation: heart 3000ms infinite;
 }
 
 /* header for banner */

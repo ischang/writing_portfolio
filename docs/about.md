@@ -3,19 +3,21 @@ hide:
   - footer
 ---
 
+
 # about
 
 <img id="about_pic" align=left src = "../assets/propic3.png" alt="me i guess"> 
  
-## ![boba](assets/hot-sauce.png){  width="40" }bio
+## ![hot-sauce](assets/hot-sauce.png){  width="40" }bio
 
-Stephanie Isan (she/they) is a queer, Taiwanese American writer and software engineer from the California bay area. 
+Stephanie Isan (she/they) is a queer, Taiwanese American writer and software engineer from the San Francisco bay area. 
 
-Her work is published and/or forthcoming in: *Frontier Poetry*, and she was a finalist for the *Palette Poetry 2021 Prize* and longlisted for the *2021 Frontier Open*.
+Her work is published and/or forthcoming in: *Frontier Poetry*, and she was a finalist for the *Palette Poetry 2021 Prize* and longlisted for the *2021 Frontier OPEN*.
 
-In her free time, she likes to, in no particular order: take long walks on air-conditioned treadmills at sunset, eat brunch with fancy mimosas, play video games, pet cats, dogspot, read her ever-growing Kindle library, and drink sriracha straight from the bottle. 
+In her free time, she likes to, in no particular order: take long walks on air-conditioned treadmills at sunset, eat brunch with fancy mimosas, play video games, pet cats, dogspot, read through her labyrinthine tower of books, and drink sriracha straight from the bottle. 
 
-She currently lives with her sixteen crane machine plushies, two grumpy tabby cats, one howling beagle mix, and her partner <s> in an Asian pear tree </s> on the US east coast.
+She currently lives with her sixteen crane machine plushies, two grumpy grey tabbies, one howling beagle mix, and her partner <s>in an Asian pear tree</s> on the US east coast.
+
 
 ## ![boba](assets/boba.png){  width="40" }testimonials 
 
@@ -25,10 +27,11 @@ She currently lives with her sixteen crane machine plushies, two grumpy tabby ca
 
 - "...has a big zit on her cheek. Also needs to stop biting her nails." ~ Older sibling (dim sum parking lot, 2012)
 
-- "Lots of Pusheen plushies on her desk. Can probably drink twice her weight in La Croix." ~ Friendly co-worker (watercooler, 2017)
+- "Lots of Pusheen plushies on her desk. Can probably drink twice her weight in La Croix." ~ Friendly co-worker (by the watercooler, 2017)
 
 - "aWOOOooOoOoOOooo" ~ Her dog (dog park, every time)
 
+ 
 
 ## ![egg](assets/eggs.png){  width="40" }credits
 
@@ -40,6 +43,7 @@ She currently lives with her sixteen crane machine plushies, two grumpy tabby ca
 
 <ul style="list-style-type: none; line-height: 1em! important;">
   <li><a target="_blank" href="https://icons8.com/icon/COT3n5g0HNI9/soy-sauce">Soy Sauce</a> icon</li>
+  <li><a target="_blank" href="https://icons8.com/icon/97288/ice-cream-in-waffle">Ice Cream in Waffle</a> icon </li>
   <li> <a target="_blank" href="https://icons8.com/icon/b3SmnBWFR09w/boba">Boba</a> icon</li>
   <li> <a target="_blank" href="https://icons8.com/icon/At5OBthGDHYJ/hot-sauce">Hot Sauce</a> icon </li>
   <li> <a target="_blank" href="https://icons8.com/icon/30198/toaster">Toaster</a> icon </li>

@@ -20,6 +20,7 @@ markdown_extensions:
 theme:
   name: material
   logo: assets/soy-sauce.png
+  favicon: assets/plent.png
   features:
     - header.autohide
   palette: 
