@@ -38,7 +38,7 @@ She currently lives with her sixteen crane machine plushies, two grumpy grey tab
 &nbsp; Credit demanded by: partner  :fontawesome-solid-heart:{ .heart }
 
 #### site 
-&nbsp; Site made with [Material for mkdocs](https://squidfunk.github.io/mkdocs-material/)
+&nbsp; Site made with: [Material for mkdocs](https://squidfunk.github.io/mkdocs-material/)
 
 #### icons 
 &nbsp; Yoinked from <a target="_blank" href="https://icons8.com">Icons8</a>:
@@ -48,7 +48,6 @@ She currently lives with her sixteen crane machine plushies, two grumpy grey tab
   <li><a target="_blank" href="https://icons8.com/icon/97288/ice-cream-in-waffle">Ice Cream in Waffle</a> icon </li>
   <li> <a target="_blank" href="https://icons8.com/icon/b3SmnBWFR09w/boba">Boba</a> icon</li>
   <li> <a target="_blank" href="https://icons8.com/icon/At5OBthGDHYJ/hot-sauce">Hot Sauce</a> icon </li>
-  <li> <a target="_blank" href="https://icons8.com/icon/30198/toaster">Toaster</a> icon </li>
   <li> <a target="_blank" href="https://icons8.com/icon/37880/sunny-side-up-eggs">Sunny Side Up Eggs</a> icon </li>
   <li> <a target="_blank" href="https://icons8.com/icon/np5aaglr7Ddq/raccoon">Raccoon</a> icon </li>
   <li> <a target="_blank" href="https://icons8.com/icon/SOMUZkJinLzw/desk">Cactus on a Desk</a> icon</a></li>
