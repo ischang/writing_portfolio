@@ -33,7 +33,7 @@ She currently lives with her sixteen crane machine plushies, two grumpy grey tab
 
  
 
-## ![egg](assets/eggs.png){  width="40" }credits
+## ![eggs](assets/eggs.png){  width="40" }credits
 
 #### site 
 &nbsp; Site generated with [Material for mkdocs](https://squidfunk.github.io/mkdocs-material/)
@@ -49,4 +49,5 @@ She currently lives with her sixteen crane machine plushies, two grumpy grey tab
   <li> <a target="_blank" href="https://icons8.com/icon/30198/toaster">Toaster</a> icon </li>
   <li> <a target="_blank" href="https://icons8.com/icon/37880/sunny-side-up-eggs">Sunny Side Up Eggs</a> icon </li>
   <li> <a target="_blank" href="https://icons8.com/icon/np5aaglr7Ddq/raccoon">Raccoon</a> icon </li>
+  <li> <a target="_blank" href="https://icons8.com/icon/SOMUZkJinLzw/desk">Cactus on a Desk</a> icon</a></li>
 </ul>
