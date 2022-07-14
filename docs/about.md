@@ -45,7 +45,6 @@ She currently lives with her sixteen crane machine plushies, two grumpy grey tab
 
 <ul style="list-style-type: none; line-height: 1em! important;">
   <li><a target="_blank" href="https://icons8.com/icon/COT3n5g0HNI9/soy-sauce">Soy Sauce</a> icon</li>
-  <li><a target="_blank" href="https://icons8.com/icon/97288/ice-cream-in-waffle">Ice Cream in Waffle</a> icon </li>
   <li> <a target="_blank" href="https://icons8.com/icon/b3SmnBWFR09w/boba">Boba</a> icon</li>
   <li> <a target="_blank" href="https://icons8.com/icon/At5OBthGDHYJ/hot-sauce">Hot Sauce</a> icon </li>
   <li> <a target="_blank" href="https://icons8.com/icon/37880/sunny-side-up-eggs">Sunny Side Up Eggs</a> icon </li>
