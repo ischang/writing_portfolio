@@ -31,7 +31,6 @@ She currently lives with her sixteen crane machine plushies, two grumpy grey tab
 
 - "aWOOOooOoOoOOooo" ~ Her dog (dog park, every time)
 
- 
 
 ## ![eggs](assets/eggs.png){  width="40" }credits
 
@@ -39,7 +38,7 @@ She currently lives with her sixteen crane machine plushies, two grumpy grey tab
 &nbsp; Credit demanded by: partner  :fontawesome-solid-heart:{ .heart }
 
 #### site 
-&nbsp; Site generated with [Material for mkdocs](https://squidfunk.github.io/mkdocs-material/)
+&nbsp; Site made with [Material for mkdocs](https://squidfunk.github.io/mkdocs-material/)
 
 #### icons 
 &nbsp; Yoinked from <a target="_blank" href="https://icons8.com">Icons8</a>:
