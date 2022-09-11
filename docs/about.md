@@ -14,7 +14,7 @@ Stephanie Isan (she/they) is a queer, Taiwanese American writer and software eng
 
 Her work is published and/or forthcoming in: *Frontier Poetry*, and she was a finalist for the *Palette Poetry 2021 Prize* and longlisted for the *2021 Frontier OPEN*.
 
-In her free time, she likes to, in no particular order: take long walks on air-conditioned treadmills at sunset, eat brunch with fancy mimosas, play video games, pet cats, dogspot, read through her labyrinthine tower of books, and drink sriracha straight from the bottle. 
+In her free time, she likes to, in no particular order: take long walks on air-conditioned treadmills at sunset, eat brunch with fancy mimosas, play video games, pet cats, dogspot, and drink sriracha straight from the bottle.
 
 She currently lives with her sixteen crane machine plushies, two grumpy grey tabbies, one howling beagle mix, and her partner <s>in an Asian pear tree</s> on the US east coast.
 
