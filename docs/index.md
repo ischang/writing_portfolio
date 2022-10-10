@@ -9,7 +9,7 @@ hide:
 <img id="home_pic" src = "../assets/propic2.png" alt="me i guess"> 
 
 
-Writer, [software engineer](https://stephanieischang.me), and three-time playground swing champion (neighborhood regional) 
+Writer, software engineer, and three-time playground swing champion (neighborhood regional) 
 
 Infrequently tweets @ [:fontawesome-brands-twitter:{ .twitter }srirachachang
 ](https://twitter.com/srirachachang)

@@ -10,9 +10,9 @@ hide:
  
 ## ![hot-sauce](assets/hot-sauce.png){  width="40" }bio
 
-Stephanie Isan (she/they) is a queer, Taiwanese American writer and software engineer from the San Francisco bay area. 
+Stephanie Isan (she/they) is a queer Taiwanese American writer and software engineer from the San Francisco bay area. 
 
-Her work is published and/or forthcoming in: *Frontier Poetry*, and she was a finalist for the *Palette Poetry 2021 Prize* and longlisted for the *2021 Frontier OPEN*.
+Her stories and poems are published and/or forthcoming in: *jmww* and *Frontier Poetry*. She was a finalist for the *Palette Poetry 2021 Prize* and longlisted for the *2021 Frontier OPEN*.
 
 In her free time, she likes to, in no particular order: take long walks on air-conditioned treadmills at sunset, eat brunch with fancy mimosas, play video games, pet cats, dogspot, and drink sriracha straight from the bottle.
 
