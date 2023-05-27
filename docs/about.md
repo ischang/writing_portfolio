@@ -12,11 +12,13 @@ hide:
 
 Stephanie Isan (she/they) is a queer Taiwanese American writer and software engineer from the San Francisco bay area. 
 
-Her stories and poems are published and/or forthcoming in: *jmww* and *Frontier Poetry*. She was a finalist for the *Palette Poetry 2021 Prize* and longlisted for the *2021 Frontier OPEN*.
+Her stories and poems are published and/or forthcoming in: *jmww* and *Frontier Poetry*. She was a finalist for the *Palette Poetry 2021 Prize* and longlisted for the *2021 Frontier OPEN*. 
+
+She is a fiction reader for [Fractured Literary](https://fracturedlit.com/) and an Assistant Poetry Editor at [Barrelhouse Mag](https://www.barrelhousemag.com/). 
 
 In her free time, she likes to, in no particular order: take long walks on air-conditioned treadmills at sunset, eat brunch with fancy mimosas, play video games, pet cats, dogspot, and drink sriracha straight from the bottle.
 
-She currently lives with her sixteen crane machine plushies, two grumpy grey tabbies, one howling beagle mix, and her partner <s>in an Asian pear tree</s> on the US east coast.
+She currently lives with sixteen crane machine plushies, two grumpy grey tabbies, one howling beagle mix, and her partner <s>in an Asian pear tree</s> in the southwestern US.
 
 
 ## ![boba](assets/boba.png){  width="40" }testimonials 
