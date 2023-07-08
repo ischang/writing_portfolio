@@ -1,20 +1,64 @@
 /* font header banner */
 @import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
 
+/* pastel pink colors for light/dark schemes */ 
+:root > * {
+  --md-primary-fg-color:        #ffd1dc;
+  --md-primary-fg-color--light: #ffd1dc;
+  --md-primary-fg-color--dark:  #ffd1dc;
+}
+
+/* light theme colors */
+[data-md-color-scheme="default"] {
+  --md-default-bg-color: #f5f2f3;
+  --md-accent-fg-color: #c48b94;
+  --md-typeset-a-color: #c48b94;
+}
+
+/* dark theme colors -- last color is for toc table */
+[data-md-color-scheme="slate"] {
+    --md-default-bg-color: #575759;
+    --md-accent-fg-color: #FBC8DC;
+    --md-typeset-a-color: #F8C8DC;
+    --md-default-fg-color--light: white;
+}
+
 /* abt pic styling */
 #about_pic {
     border-radius: 20px;
     width: 230px;
     filter: drop-shadow(1px 1px 10px gray);
     align: left;
+    margin-bottom: 0px;
 }
 
 /* home pic styling */
 #home_pic {
-    border-radius:50%;
-    width:330px; 
+    width:140px; 
+    align: left;
     filter: drop-shadow(2px 2px 4px gray);
 }
+
+/* bullet points front page */ 
+
+#aboutbullets ul {
+    list-style: none;
+    text-transform: lowercase;
+}
+
+#aboutbullets ul li::before {
+    content: "\2022";
+    display: inline-block;
+    width: 1em;
+    margin-left: 0.1em;
+    color: var(--md-accent-fg-color);
+}
+
+/*css for images in front of headers*/
+img[alt~="boba"], img[alt~="soy-sauce"], img[alt~="eggs"],  img[alt~="toaster"] {
+    margin: 0px 5px -4px 0px;
+}
+
 
 /* heart shaking by abt page */
 .heart {
@@ -42,10 +86,39 @@
     color: #1DA1F2;
 }
 
+/* styling for different headers */
+
+h1#about, h1#publications-honors, h1#contact {
+    color: var(--md-accent-fg-color);
+}
+
 /* make h2 the accent color & underline */
 h2 {
-    color: var(--md-accent-fg-color);
     text-decoration: underline;
+}
+
+h2#bio, h2#credits {
+    color: var(--md-accent-fg-color);
+}
+
+h2#bio{
+    margin-top: -2px;
+}
+
+/* change accent color of h3 */
+h3 {
+    color: var(--md-accent-fg-color);
+}
+
+/* fix weird spacing between h1s*/ 
+.md-typeset h1 { 
+    margin: 0 0 0.5em 0 !important;
+}
+
+/* i wanted closer spacing in pubs page for h2s */
+.pubs_honors h2 {
+    margin: 1.0em 0 1em 0 !important;
+    text-align: center;
 }
 
 /* animation for main pg */
@@ -61,27 +134,23 @@ h2 {
 .quote {
   font-size: 60%;
   color: var(--md-accent-fg-color);
-  animation: quote 2000ms infinite;
+  animation: quote 1000ms infinite;
+}
+
+/* toc text */
+.md-nav__title {
+    text-transform: lowercase;
 }
 
 /* header for banner */
 .md-header__inner {
-    letter-spacing: .5em;
+    letter-spacing: .4em;
     text-transform: lowercase;
     font-family: Raleway;
+    color: #5A5A5A;
 }
 
-/* fix weird spacing between h1s*/ 
-.md-typeset h1 { 
-    margin: 0 0 0.5em 0 !important;
-}
-
-/* i wanted closer spacing in pubs page for h2s */
-.pubs_honors h2 {
-    margin: 1.0em 0 0.5em 0 !important;
-}
-
-/*contact form */
+/* CONTACT FORM */
 
 /* input text area */
 input[type="text"], textarea {
@@ -139,6 +208,11 @@ li.contact_buttons {
 li.contact_buttons:hover {
     background-color: var(--md-primary-fg-color);
     transition: 0.3s;
+}
+
+/* for dark mode; change white text to black for readability */
+input[type="submit"]:hover, input[type="reset"]:hover {
+    color: black;
 }
 
 /* no list decoration */
