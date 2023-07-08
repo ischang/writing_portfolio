@@ -11,5 +11,5 @@ hide:
 <div id ="aboutbullets" markdown="1" style="width:700px">
 - writer, software engineer, and three-time playground swing champion (neighborhood regional) 
 - infrequently tweets at: [:fontawesome-brands-twitter:{ .twitter } srirachachang](https://twitter.com/srirachachang)
-- collects pastel pink fountain pens & actively avoids cucumbers. ask her about broad nibs, sheen, and her penchant for lists of three
+- collects pastel pink fountain pens & actively avoids cucumbers
 </div>
