@@ -3,13 +3,13 @@ hide:
   - footer
   - toc
 ---
-
 # :fontawesome-solid-quote-left:{ .quote } stephanie isan :fontawesome-solid-quote-right:{ .quote }
 
-<img id="home_pic" src = "../assets/propic2.png" alt="me i guess"> 
+### ﾟ･✿ 歡迎光臨 ✿･ﾟ
+<img id="home_pic" align=left src = "../assets/fountainpen.png" alt="me i guess"> 
 
-
-Writer, software engineer, and three-time playground swing champion (neighborhood regional) 
-
-Infrequently tweets @ [:fontawesome-brands-twitter:{ .twitter }srirachachang
-](https://twitter.com/srirachachang)
+<div id ="aboutbullets" markdown="1" style="width:700px">
+- writer, software engineer, and three-time playground swing champion (neighborhood regional) 
+- infrequently tweets at: [:fontawesome-brands-twitter:{ .twitter } srirachachang](https://twitter.com/srirachachang)
+- collects pastel pink fountain pens & actively avoids cucumbers. ask her about broad nibs, sheen, and her penchant for lists of three
+</div>

@@ -20,24 +20,24 @@ markdown_extensions:
     - md_in_html
 theme:
   name: material
-  logo: assets/soy-sauce.png
-  favicon: assets/plent.png
+  logo: assets/hot-sauce.png
+  favicon: assets/boba.png
   features:
     - header.autohide
   palette: 
-    # Palette toggle for light mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: default
-      primary: pink
-      accent: pink
-      toggle:
-        icon: material/weather-night 
-        name: Switch to dark mode
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: light)"
       scheme: slate
-      primary: pink
-      accent: pink
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night 
+        name: Switch to dark mode
