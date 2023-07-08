@@ -13,6 +13,7 @@
   --md-default-bg-color: #f5f2f3;
   --md-accent-fg-color: #c48b94;
   --md-typeset-a-color: #c48b94;
+  color: #575759;
 }
 
 /* dark theme colors -- last color is for toc table */
@@ -34,14 +35,14 @@
 
 /* home pic styling */
 #home_pic {
-    width:140px; 
+    width:125px; 
     align: left;
     filter: drop-shadow(2px 2px 4px gray);
 }
 
 /* bullet points front page */ 
 
-#aboutbullets ul {
+#aboutbullets ul, .pubs_honors ul {
     list-style: none;
     text-transform: lowercase;
 }
@@ -51,6 +52,14 @@
     display: inline-block;
     width: 1em;
     margin-left: 0.1em;
+    color: var(--md-accent-fg-color);
+}
+
+ .pubs_honors ul li::before {
+    content: "\2022";
+    display: inline-block;
+    width: 1em;
+    margin-left: -10px;
     color: var(--md-accent-fg-color);
 }
 
@@ -108,6 +117,10 @@ h2#bio{
 /* change accent color of h3 */
 h3 {
     color: var(--md-accent-fg-color);
+}
+
+h1#stephanie-isan {
+    text-align: center;
 }
 
 /* fix weird spacing between h1s*/ 

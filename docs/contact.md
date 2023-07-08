@@ -5,7 +5,7 @@ hide:
 ---
 # ![GOOD RACOON](assets/raccoon.png){  width="50" } &nbsp; contact 
 
-Just in case you wanted to drop a line or send a description of your dog/cat/ferret/parakeet/raccoon: 
+just in case you wanted to drop a line or send a description of your dog/cat/ferret/parakeet/raccoon: 
 
 <div style="font-size:80%">
 	<span style="color:red;">*</span> indicates a required field.

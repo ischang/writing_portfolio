@@ -6,7 +6,7 @@ hide:
 
 # publications & honors 
 
-<div class="pubs_honors" markdown>
+<div class="pubs_honors", style="text-transform: lowercase;" markdown>
 
 ## ![soy-sauce](assets/toaster.png){  width="20" }publications
 
