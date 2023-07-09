@@ -28,9 +28,10 @@ markdown_extensions:
 theme:
   name: material
   logo: assets/hot-sauce.png
-  favicon: assets/boba.png
+  favicon: assets/espresso.png
   features:
     - header.autohide
+    - navigation.tracking
   palette: 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: dark)"

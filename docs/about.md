@@ -3,14 +3,13 @@ hide:
   - footer
 ---
 
-
 # about
 
 <img id="about_pic" align=left src = "../assets/propic3.png" title="meow">  
 
 ## ![boba](assets/boba.png){  width="25" }bio
 
-<div style="text-transform:lowercase;" markdown="1">
+<div markdown>
 Stephanie Isan (she/they) is a queer Taiwanese American writer and software engineer from the San Francisco bay area. 
 
 Her stories and poems are published and/or forthcoming in: *The Bellevue Literary Review*, *jmww*, and *Frontier Poetry*. She was a finalist for the *Palette Poetry 2021 Prize* and longlisted for the *2021 Frontier OPEN*. She is a [Kundiman](http://www.kundiman.org/fellows) fellow.
@@ -28,7 +27,7 @@ She currently lives with two cats, one beagle mix, and her husband <s>in an Asia
 &nbsp; Credit demanded by: husbando  :fontawesome-solid-heart:{ .heart }
 
 #### site 
-&nbsp; Generated with: [Material for mkdocs](https://squidfunk.github.io/mkdocs-material/)
+&nbsp; Made with: [Material for mkdocs](https://squidfunk.github.io/mkdocs-material/)
 
 #### icons 
 &nbsp; Yoinked from <a target="_blank" href="https://icons8.com">Icons8</a>

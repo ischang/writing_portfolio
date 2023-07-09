@@ -3,12 +3,23 @@
 
 /* pastel pink colors for light/dark schemes */ 
 :root > * {
-  --md-primary-fg-color:        #ffd1dc;
-  --md-primary-fg-color--light: #ffd1dc;
-  --md-primary-fg-color--dark:  #ffd1dc;
+  --md-primary-fg-color:        #fce1e6;
+  --md-primary-fg-color--light: #fce1e6;
+  --md-primary-fg-color--dark:  #fce1e6;
+  --md-footer-bg-color--dark: #ffebef;
+  --md-footer-bg-color--light: #ffebef;
+  --md-footer-fg-color--light: #5A5A5A;
 }
 
-/* toc text .md-nav__title, but changing this to full body */
+/* if i want to change footer 
+.md-footer {
+    font-family: Raleway;
+    letter-spacing: 2em;
+    font-size: 0.2em;
+}
+*/
+
+/* all lowercase */
 body {
     text-transform: lowercase;
 }
@@ -56,7 +67,6 @@ body {
 /* custom bullet points */
 #aboutbullets ul, .pubs_honors ul {
     list-style: none;
-    text-transform: lowercase;
 }
 
 /*\2022 is just a mini dot */

@@ -5,7 +5,7 @@ hide:
 ---
 
 ## ![boba](assets/boba.png){  width="40" }very real quotes
-<div id = "testimonialbullets" markdown = "1" >
+<div id = "testimonialbullets" markdown>
 
 - "She bought me Animal Crossing: New Horizons!" ~ Her second nephew, for his second grade "Favorite Person" presentation (<span class="flavor_text"> classroom, 2023 </span>) 
 - "...Violent Asian American Power Couple" ~ Slightly unwashed, possibly deranged, definitely terrifying man harassing her, her partner, and the baristas (<span class="flavor_text"> suburban coffee shop, 2022 </span>)

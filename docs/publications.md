@@ -1,12 +1,11 @@
 ---
 hide:
   - footer
-  - toc
 ---
 
 # publications & honors 
 
-<div class="pubs_honors", style="text-transform: lowercase;" markdown>
+<div class="pubs_honors" markdown>
 
 ## ![soy-sauce](assets/toaster.png){  width="20" }publications
 

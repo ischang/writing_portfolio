@@ -21,14 +21,14 @@
 /* color change based on light mode */
 [data-md-color-scheme="default"] .ui-widget-content {
     border: 1px solid #7e7783;
-    background: #3d3644;
+    background: #575759;
     color: #ffffff;
 } 
 
 /* font */
 .ui-widget {
     font-family: Helvetica,sans-serif;
-    font-size: 1em;
+    font-size: 0.9em;
 }
 
 /* all this shit is rounding corners .... eyeroll */ 
