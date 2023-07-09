@@ -6,7 +6,7 @@ hide:
 
 # about
 
-<img id="about_pic" align=left src = "../assets/propic3.png" alt="me i guess">  
+<img id="about_pic" align=left src = "../assets/propic3.png" title="meow">  
 
 ## ![boba](assets/boba.png){  width="25" }bio
 

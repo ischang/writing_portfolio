@@ -9,7 +9,14 @@ nav:
   - contact: contact.md
 extra:
   generator: false
+extra_javascript:
+  - https://code.jquery.com/jquery-2.2.4.js
+  - https://code.jquery.com/ui/1.12.1/jquery-ui.js
+  - scripts/extras.js
 extra_css:
+  - stylesheets/tooltips.css
+  - stylesheets/contact-form.css
+  - stylesheets/animations.css
   - stylesheets/extras.css
 markdown_extensions:
     - meta
@@ -32,7 +39,7 @@ theme:
       accent: custom
       toggle:
         icon: material/weather-night 
-        name: Switch to dark mode
+        name: switch to dark mode
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: light)"
       scheme: slate
@@ -40,4 +47,4 @@ theme:
       accent: custom
       toggle:
         icon: material/weather-sunny
-        name: Switch to light mode
+        name: switch to light mode
