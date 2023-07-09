@@ -13,6 +13,11 @@ body {
     text-transform: lowercase;
 }
 
+/* removing weird jquery logs*/
+.ui-helper-hidden-accessible{
+    display: none;
+}
+
 /* light theme colors */
 [data-md-color-scheme="default"] {
   --md-default-bg-color: #f5f2f3;
