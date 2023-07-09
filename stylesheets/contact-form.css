@@ -1,0 +1,86 @@
+/* CONTACT FORM */
+
+/* input text area */
+input[type="text"], textarea {
+    background-color: var(--md-default-bg-color);
+    border: solid 1px;
+    color: var(--md-default-fg-color);
+    display: block;
+    outline: 0;
+    padding: 0 0.2em;
+    text-decoration: none;
+    font-family: inherit;
+    width: 100%;
+}
+
+/* padding for box sizing */
+#contact>.inner>:nth-child(2n - 1) {
+    padding: 0em 3em 2em 0;
+    width: 60%;
+    z-index: 1;
+}
+
+/* input submission buttons */
+input[type="submit"], input[type="reset"], input[type="button"], button, .button {
+    background-color: transparent;
+    border: solid 1px;
+    border-radius: 0;
+    box-shadow: inset 0 0 0 2px #fff;
+    color: var(--md-default-fg-color);
+    cursor: pointer;
+    display: inline-block;
+    font-size: 0.8em;
+    font-weight: 600;
+    height: 3.5em;
+    letter-spacing: .25em;
+    line-height: 3.5em;
+    padding: 0 1.75em;
+    text-align: center;
+    text-decoration: none;
+    text-transform: lowercase;
+    white-space: nowrap;
+}
+
+/* margin between form & buttons */
+form>.actions {
+    margin: 1.5em 0 0 0 !important;
+}
+
+/* contact buttons */
+li.contact_buttons {
+    display: inline-flex;
+    margin: 1.5em 1.0em 0.2em 0 !important;
+}
+
+/* color change on contact buttons hover */
+li.contact_buttons:hover {
+    background-color: var(--md-primary-fg-color);
+    transition: 0.3s;
+}
+
+/* for dark mode; change white text to black for readability */
+input[type="submit"]:hover, input[type="reset"]:hover {
+    color: black;
+}
+
+/* no list decoration */
+ul.actions {
+    list-style: none;
+}
+
+/* labels on text over input areas */
+.contact_labels {
+    color: var(--md-default-fg-color);
+    display: block;
+    font-size: 0.8em;
+    font-weight: 600;
+    letter-spacing: .25em;
+    margin: 1em 0em 0.2em 0;
+    text-transform: lowercase;
+}
+
+/* adding red asterisk after labels on input text areas */
+.contact_labels:after{
+    content: "*";
+    color: red;
+}

@@ -8,6 +8,11 @@
   --md-primary-fg-color--dark:  #ffd1dc;
 }
 
+/* toc text .md-nav__title, but changing this to full body */
+body {
+    text-transform: lowercase;
+}
+
 /* light theme colors */
 [data-md-color-scheme="default"] {
   --md-default-bg-color: #f5f2f3;
@@ -24,7 +29,7 @@
     --md-default-fg-color--light: white;
 }
 
-/* abt pic styling */
+/* abt pic styling; margin-bottom allows text to wrap better*/
 #about_pic {
     border-radius: 20px;
     width: 230px;
@@ -37,16 +42,19 @@
 #home_pic {
     width:125px; 
     align: left;
+    padding-top:10px;
     filter: drop-shadow(2px 2px 4px gray);
 }
 
 /* bullet points front page */ 
 
+/* custom bullet points */
 #aboutbullets ul, .pubs_honors ul {
     list-style: none;
     text-transform: lowercase;
 }
 
+/*\2022 is just a mini dot */
 #aboutbullets ul li::before {
     content: "\2022";
     display: inline-block;
@@ -55,7 +63,8 @@
     color: var(--md-accent-fg-color);
 }
 
- .pubs_honors ul li::before {
+/* custom bullets for pubs page */
+.pubs_honors ul li::before {
     content: "\2022";
     display: inline-block;
     width: 1em;
@@ -63,31 +72,9 @@
     color: var(--md-accent-fg-color);
 }
 
-/*css for images in front of headers*/
+/*css for images in front of headers; lower picture to align with headers better*/
 img[alt~="boba"], img[alt~="soy-sauce"], img[alt~="eggs"],  img[alt~="toaster"] {
     margin: 0px 5px -4px 0px;
-}
-
-
-/* heart shaking by abt page */
-.heart {
-    color: var(--md-accent-fg-color);;
-    animation: shake 2s;
-    animation-iteration-count: infinite;
-}
-
-@keyframes shake {
-  0% { transform: translate(1px, 1px) rotate(0deg); }
-  10% { transform: translate(-1px, -2px) rotate(-1deg); }
-  20% { transform: translate(-3px, 0px) rotate(1deg); }
-  30% { transform: translate(3px, 2px) rotate(0deg); }
-  40% { transform: translate(1px, -1px) rotate(1deg); }
-  50% { transform: translate(-1px, 2px) rotate(-1deg); }
-  60% { transform: translate(-3px, 1px) rotate(0deg); }
-  70% { transform: translate(3px, 1px) rotate(-1deg); }
-  80% { transform: translate(-1px, -1px) rotate(1deg); }
-  90% { transform: translate(1px, 2px) rotate(0deg); }
-  100% { transform: translate(1px, -2px) rotate(-1deg); }
 }
 
 /* twitter color */
@@ -97,19 +84,32 @@ img[alt~="boba"], img[alt~="soy-sauce"], img[alt~="eggs"],  img[alt~="toaster"] 
 
 /* styling for different headers */
 
+/* accent colors for specific h1s except main page */
 h1#about, h1#publications-honors, h1#contact {
     color: var(--md-accent-fg-color);
 }
 
-/* make h2 the accent color & underline */
+h1#stephanie-isan {
+    text-align: center;
+}
+
+/* underline h2 */
 h2 {
     text-decoration: underline;
 }
 
+/* i wanted closer spacing in pubs page for h2s */
+.pubs_honors h2 {
+    margin: 1.0em 0 1em 0 !important;
+    text-align: center;
+}
+
+/* accent color only for about page */
 h2#bio, h2#credits {
     color: var(--md-accent-fg-color);
 }
 
+/* align with photo */
 h2#bio{
     margin-top: -2px;
 }
@@ -119,40 +119,9 @@ h3 {
     color: var(--md-accent-fg-color);
 }
 
-h1#stephanie-isan {
-    text-align: center;
-}
-
 /* fix weird spacing between h1s*/ 
 .md-typeset h1 { 
     margin: 0 0 0.5em 0 !important;
-}
-
-/* i wanted closer spacing in pubs page for h2s */
-.pubs_honors h2 {
-    margin: 1.0em 0 1em 0 !important;
-    text-align: center;
-}
-
-/* animation for main pg */
-@keyframes quote {
-  0%, 40%, 80%, 100% {
-    transform: scale(1);
-  }
-  20%, 60% {
-    transform: scale(1.15);
-  }
-}
-
-.quote {
-  font-size: 60%;
-  color: var(--md-accent-fg-color);
-  animation: quote 1000ms infinite;
-}
-
-/* toc text */
-.md-nav__title {
-    text-transform: lowercase;
 }
 
 /* header for banner */
@@ -161,91 +130,4 @@ h1#stephanie-isan {
     text-transform: lowercase;
     font-family: Raleway;
     color: #5A5A5A;
-}
-
-/* CONTACT FORM */
-
-/* input text area */
-input[type="text"], textarea {
-    background-color: var(--md-default-bg-color);
-    border: solid 1px;
-    color: var(--md-default-fg-color);
-    display: block;
-    outline: 0;
-    padding: 0 0.2em;
-    text-decoration: none;
-    font-family: inherit;
-    width: 100%;
-}
-
-/* padding for box sizing */
-#contact>.inner>:nth-child(2n - 1) {
-    padding: 0em 3em 2em 0;
-    width: 60%;
-    z-index: 1;
-}
-
-/* input submission buttons */
-input[type="submit"], input[type="reset"], input[type="button"], button, .button {
-    background-color: transparent;
-    border: solid 1px;
-    border-radius: 0;
-    box-shadow: inset 0 0 0 2px #fff;
-    color: var(--md-default-fg-color);
-    cursor: pointer;
-    display: inline-block;
-    font-size: 0.8em;
-    font-weight: 600;
-    height: 3.5em;
-    letter-spacing: .25em;
-    line-height: 3.5em;
-    padding: 0 1.75em;
-    text-align: center;
-    text-decoration: none;
-    text-transform: lowercase;
-    white-space: nowrap;
-}
-
-/* margin between form & buttons */
-form>.actions {
-    margin: 1.5em 0 0 0 !important;
-}
-
-/* contact buttons */
-li.contact_buttons {
-    display: inline-flex;
-    margin: 1.5em 1.0em 0.2em 0 !important;
-}
-
-/* color change on contact buttons hover */
-li.contact_buttons:hover {
-    background-color: var(--md-primary-fg-color);
-    transition: 0.3s;
-}
-
-/* for dark mode; change white text to black for readability */
-input[type="submit"]:hover, input[type="reset"]:hover {
-    color: black;
-}
-
-/* no list decoration */
-ul.actions {
-    list-style: none;
-}
-
-/* labels on text over input areas */
-.contact_labels {
-    color: var(--md-default-fg-color);
-    display: block;
-    font-size: 0.8em;
-    font-weight: 600;
-    letter-spacing: .25em;
-    margin: 1em 0em 0.2em 0;
-    text-transform: lowercase;
-}
-
-/* adding red asterisk after labels on input text areas */
-.contact_labels:after{
-    content: "*";
-    color: red;
 }
