@@ -16,7 +16,7 @@ hide:
 - "Chinese Mermaids" in [jmww](https://jmwwblog.wordpress.com/2022/11/23/flash-fiction-chinese-mermaids-by-stephanie-isan/) (Nov 2022)
 
 ### poetry
-- "Unsung" in Epiphany (TBD)
+- "Unsung" in [Epiphany](https://epiphanyzine.com/features/2023/8/8/unsung-by-stephanie-isan) 
 - "Spring Rituals" in [Frontier Poetry](https://www.frontierpoetry.com/2022/03/04/poetry-stephanie-isan/) (March 2022) 
 
 ---
