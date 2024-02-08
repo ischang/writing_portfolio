@@ -88,7 +88,7 @@ body {
 }
 
 /*css for images in front of headers; lower picture to align with headers better*/
-img[alt~="boba"], img[alt~="soy-sauce"], img[alt~="eggs"],  img[alt~="toaster"] {
+img[alt~="boba"], img[alt~="soy-sauce"], img[alt~="eggs"], img[alt~="toaster"], img[alt~="rice"]{
     margin: 0px 5px -4px 0px;
 }
 

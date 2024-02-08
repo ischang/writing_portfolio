@@ -9,6 +9,6 @@ hide:
 <div id ="aboutbullets" markdown style="max-width:750px; padding-top:1px;">
 - writer, software engineer, and three-time playground swing champion (neighborhood regional) 
 - infrequently tweets at: [:fontawesome-brands-twitter:{ .twitter } srirachachang](https://twitter.com/srirachachang)
-- collects pastel pink fountain pens & actively avoids cucumbers
+- collects pastel pink fountain pens & actively [avoids cucumbers](https://discover.hubpages.com/food/i-hate-cucumbers)
 </div>
 

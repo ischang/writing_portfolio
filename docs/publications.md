@@ -7,10 +7,11 @@ hide:
 
 <div class="pubs_honors" markdown>
 
-## ![soy-sauce](assets/toaster.png){  width="20" }publications
+## ![toaster](assets/toaster.png){  width="20" }publications
 
 ### fiction  
-- "The Last Thing She Touched" in The Bellevue Literary Review (TBD, Fall 2023)
+- "Hey, Cam Club" in Joyland (TBD)
+- "The Last Thing She Touched" in [The Bellevue Literary Review](https://blreview.org/table-of-contents/issue-45/) (Oct 2023)
 
 ### flash fiction 
 - "Chinese Mermaids" in [jmww](https://jmwwblog.wordpress.com/2022/11/23/flash-fiction-chinese-mermaids-by-stephanie-isan/) (Nov 2022)
@@ -23,8 +24,9 @@ hide:
 
 ## ![eggs](assets/eggs.png){  width="20" }honors
 
-### fellowships
+### fellowships & workshops
 - **[Kundiman](http://www.kundiman.org/)**, Fiction 
+- **[Tin House Winter Workshop 2024](https://tinhouse.com/workshop/winter-workshop/)**, Fiction 
 - **Finalist, [Periplus](https://twitter.com/PeriplusCollect)**, Fiction 
 
 ### fiction 
@@ -37,4 +39,10 @@ hide:
 ### poetry
 - **Finalist, Palette Poetry 2021 Prize**, for "Spring Rituals"  
 - **Longlisted, Frontier OPEN 2021**, for "Spring Rituals" 
+
+---
+
+## ![rice](assets/rice.png){  width="20" }press
+
+- **[The Bellevue Literary Review](https://blreview.org/recent-news/blr-fall-2023-theartoftakingcare/)**, *The Art of Taking Care -- an Evening with Writers and Caregivers* (oct 2023)
 </div>
