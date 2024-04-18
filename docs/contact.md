@@ -3,9 +3,9 @@ hide:
   - footer
   - toc
 ---
-# ![GOOD RACOON](assets/raccoon.png){  width="50" } &nbsp; contact 
+# ![GOOD RACOON](assets/raccoon.png){  width="50" } &nbsp; Contact 
 
-just in case you wanted to drop a line or send a description of your dog/cat/ferret/parakeet/raccoon: 
+Just in case you wanted to drop a line or send a description of your dog/cat/ferret/parakeet/raccoon: 
 
 <div style="font-size:80%">
 	<span style="color:red;">*</span> indicates a required field.

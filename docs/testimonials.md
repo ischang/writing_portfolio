@@ -4,7 +4,7 @@ hide:
   - toc
 ---
 
-## ![boba](assets/boba.png){  width="40" }very real quotes
+## ![boba](assets/boba.png){  width="40" }Very Real Quotes
 <div id = "testimonialbullets" markdown>
 
 - "She bought me Animal Crossing: New Horizons!" ~ Her second nephew, for his second grade "Favorite Person" presentation (<span class="flavor_text"> classroom, 2023 </span>) 
