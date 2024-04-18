@@ -32,7 +32,7 @@ input[type="submit"], input[type="reset"], input[type="button"], button, .button
     font-size: 0.8em;
     font-weight: 600;
     height: 3.5em;
-    letter-spacing: .25em;
+    letter-spacing: .08em;
     line-height: 3.5em;
     padding: 0 1.75em;
     text-align: center;
@@ -74,7 +74,7 @@ ul.actions {
     display: block;
     font-size: 0.8em;
     font-weight: 600;
-    letter-spacing: .25em;
+    letter-spacing: .1em;
     margin: 1em 0em 0.2em 0;
     text-transform: lowercase;
 }
