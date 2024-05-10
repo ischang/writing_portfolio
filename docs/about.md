@@ -12,7 +12,7 @@ hide:
 <div markdown>
 Stephanie Isan (she/they) is the pen name of a queer Taiwanese American writer and software engineer from the San Francisco bay area. 
 
-Her stories and poems are published and/or forthcoming in: *The Bellevue Literary Review*, *Joyland*, *Epiphany*, *jmww*, and *Frontier Poetry*. She was a finalist for the *Palette Poetry 2021 Prize* and longlisted for the *2021 Frontier Poetery Award for New Poets*. 
+Her stories and poems are published and/or forthcoming in: *The Bellevue Literary Review*, *Joyland*, *Epiphany*, *jmww*, and *Frontier Poetry*. She was a finalist for the *Palette Poetry 2021 Prize* and longlisted for the *2021 Frontier Poetry Award for New Poets*. 
 
 Stephanie is an alum of the [Tin House Workshop](https://tinhouse.com/workshop/) and a [Kundiman](http://www.kundiman.org/fellows) fiction fellow. She is currently a fiction reader for [Fractured Literary](https://fracturedlit.com/) and an Assistant Poetry Editor at [Barrelhouse Mag](https://www.barrelhousemag.com/). 
 
