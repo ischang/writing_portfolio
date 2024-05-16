@@ -10,7 +10,7 @@ hide:
 ## ![toaster](assets/toaster.png){  width="20" }publications
 
 ### Fiction  
-- "Hey, Cam Club" in Joyland (May, TBD)
+- "Hey, Cam Club" in [Joyland Magazine](https://joylandmagazine.com/fiction/hey-cam-club/) (May 2024)
 - "The Last Thing She Touched" in [The Bellevue Literary Review](https://blreview.org/table-of-contents/issue-45/) (Oct 2023)
 
 ### Flash Fiction 
