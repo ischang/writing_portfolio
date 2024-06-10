@@ -12,9 +12,9 @@ hide:
 <div markdown>
 Stephanie Isan (she/they) is the pen name of a queer Taiwanese American writer, quasi-poet, and software engineer from the San Francisco bay area. 
 
-Their stories and poems are published and/or forthcoming in: *The Bellevue Literary Review*, *Joyland*, *Epiphany*, *jmww*, and *Frontier Poetry*. Her work has been generously supported by both [Kundiman](http://www.kundiman.org/fellows) and the [Tin House Workshop](https://tinhouse.com/workshop/). 
+Their writing has been generously supported by both [Kundiman](http://www.kundiman.org/fellows) and the [Tin House Workshop](https://tinhouse.com/workshop/), and her work is published and/or forthcoming in: *The Bellevue Literary Review*, *Joyland*, *Epiphany*, *jmww*, and *Frontier Poetry*. They are an Assistant Poetry Editor at [Barrelhouse Mag](https://www.barrelhousemag.com/about).
 
-In her free time, they like to, in no particular order: take long walks on air-conditioned treadmills at sunset, eat oversalted soy sauce eggs with scorched rice, play video games, pet cats, dogspot, and drink sriracha straight from the bottle.
+In her free time, she likes to, in no particular order: take long walks on air-conditioned treadmills at sunset, eat oversalted soy sauce eggs with scorched rice, play video games, pet cats, dogspot, and drink sriracha straight from the bottle.
 
 She currently lives with two cats, one beagle mix, and her husband <s>in an Asian pear tree</s> in the southwestern US. She hates cucumbers. They do not, contrary to what everyone says, taste 'just like water'.
 
