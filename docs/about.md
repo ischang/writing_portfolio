@@ -10,7 +10,7 @@ hide:
 ## ![boba](assets/boba.png){  width="25" }Bio
 
 <div markdown>
-Stephanie Isan (she/they) is the pen name of a queer Taiwanese American writer, quasi-poet, and software engineer from the San Francisco bay area. 
+Stephanie Isan (she/they) is the pen name of a queer Taiwanese American writer, quasi-poet, and software engineer from the San Francisco Bay Area. 
 
 Their writing has been generously supported by both [Kundiman](http://www.kundiman.org/fellows) and the [Tin House Workshop](https://tinhouse.com/workshop/), and her work is published and/or forthcoming in: *The Bellevue Literary Review*, *Five Points*, *Joyland*, *Epiphany*, *jmww*, and *Frontier Poetry*. They are currently an Assistant Poetry Editor at [Barrelhouse Mag](https://www.barrelhousemag.com/about).
 
