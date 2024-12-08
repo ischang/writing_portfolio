@@ -2,7 +2,7 @@
 .quote {
   font-size: 60%;
   color: var(--md-accent-fg-color);
-  animation: quote 2000ms infinite;
+  animation: quote 800ms infinite;
 }
 
 /* heart shaking by abt page */
