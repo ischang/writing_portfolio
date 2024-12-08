@@ -31,6 +31,7 @@
 
 /* light theme colors */
 [data-md-color-scheme="default"] {
+  --md-primary-fg-color:  #fce1e6;
   --md-default-bg-color: #f5f2f3;
   --md-accent-fg-color: #c48b94;
   --md-typeset-a-color: #c48b94;
@@ -39,6 +40,7 @@
 
 /* dark theme colors -- last color is for toc table */
 [data-md-color-scheme="slate"] {
+    --md-primary-fg-color: #f7dce2;
     --md-default-bg-color: #575759;
     --md-accent-fg-color: #FBC8DC;
     --md-typeset-a-color: #F8C8DC;
