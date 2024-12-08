@@ -32,8 +32,6 @@ theme:
   features:
     - header.autohide
     - navigation.tracking
-    - navigation.instant
-    - navigation.instant.prefetch
   palette: 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: dark)"
