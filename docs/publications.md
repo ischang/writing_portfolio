@@ -7,9 +7,10 @@ hide:
 
 <div class="pubs_honors" markdown>
 
-## ![toaster](assets/toaster.png){  width="20" }publications
+## ![toaster](assets/toaster.png){  width="20" }Publications
 
 ### Fiction  
+- "The Real Chupa Chup" in *Five Points* (forthcoming)
 - "Hey, Cam Club" in [Joyland Magazine](https://joylandmagazine.com/fiction/hey-cam-club/) (May 2024)
 - "The Last Thing She Touched" in [The Bellevue Literary Review](https://blreview.org/table-of-contents/issue-45/) (Oct 2023)
 

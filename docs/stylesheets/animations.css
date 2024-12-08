@@ -2,7 +2,7 @@
 .quote {
   font-size: 60%;
   color: var(--md-accent-fg-color);
-  animation: quote 1000ms infinite;
+  animation: quote 2000ms infinite;
 }
 
 /* heart shaking by abt page */
@@ -13,7 +13,7 @@
 }
 
 #home_pic:hover {
-    animation: shake 0.5s;
+    animation: shake 0.3s;
     animation-iteration-count: infinite;
 }
 

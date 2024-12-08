@@ -1,12 +1,12 @@
-site_name: stephanie isan 
+site_name: Stephanie 怡璇
 site_url: https://stephanieisan.com
 dev_addr: 127.0.0.1:8001
 plugins: []
 nav:
-  - home: index.md
-  - about: about.md
-  - publications & honors: publications.md
-  - contact: contact.md
+  - Home: index.md
+  - About: about.md
+  - Publications & Honors: publications.md
+  - Contact: contact.md
 extra:
   generator: false
 extra_javascript:
@@ -32,6 +32,8 @@ theme:
   features:
     - header.autohide
     - navigation.tracking
+    - navigation.instant
+    - navigation.instant.prefetch
   palette: 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: dark)"
