@@ -69,16 +69,27 @@
     list-style: none;
 }
 
+/* ridiculous amount of styling to indent second line of text */
+#aboutbullets ul {
+    padding: 0;
+    margin: 0;
+}
+
+#aboutbullets ul li{
+    position: relative;
+    padding-left: 2em;
+}
+
 /*\2022 is just a mini dot */
+/* to adjust bullet positioning in re: to list, adjust left and padding-left */
 #aboutbullets ul li::before {
     content: "\2022";
-    display: inline-block;
-    width: 1em;
-    margin-left: 0.1em;
+    position: absolute;
+    left: 1em;
     color: var(--md-accent-fg-color);
 }
 
-/* custom bullets for pubs page */
+/* custom bullets for pubs page */ 
 .pubs_honors ul li::before {
     content: "\2022";
     display: inline-block;
@@ -109,11 +120,10 @@ h1#about, h1#publications-honors, h1#contact {
     color: var(--md-accent-fg-color);
 }
 
-
 /* main page title styling -- center spacing and set color to default font */
 h1#_1 {
     text-align: center;
-    letter-spacing: .2em;
+    letter-spacing: .3em;
     color: var(--md-default-fg-color);
 }
 
