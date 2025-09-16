@@ -10,7 +10,8 @@ hide:
 ## ![toaster](assets/toaster.png){  width="20" }Publications
 
 ### Fiction  
-- "The Real Chupa Chup" in *Five Points* (forthcoming)
+- "How to Make Non-Korean Kimchi" in *Split Lip* (forthcoming)
+- "The Real Chupa Chup" in [Five Points](https://fivepoints.gsu.edu/issue/five-points-vol-24-no-1/) (May 2025)
 - "Hey, Cam Club" in [Joyland Magazine](https://joylandmagazine.com/fiction/hey-cam-club/) (May 2024)
 - "The Last Thing She Touched" in [The Bellevue Literary Review](https://blreview.org/table-of-contents/issue-45/) (Oct 2023)
 
