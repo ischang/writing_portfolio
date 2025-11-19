@@ -10,7 +10,7 @@ hide:
 ## ![toaster](assets/toaster.png){  width="20" }Publications
 
 ### Fiction  
-- "How to Make Non-Korean Kimchi" in *Split Lip* (forthcoming)
+- "How to Make Non-Korean Kimchi" in [Split Lip](https://splitlipthemag.com/fiction/1125/stephanie-isan) (Nov 2025)
 - "The Real Chupa Chup" in [Five Points](https://fivepoints.gsu.edu/issue/five-points-vol-24-no-1/) (May 2025)
 - "Hey, Cam Club" in [Joyland Magazine](https://joylandmagazine.com/fiction/hey-cam-club/) (May 2024)
 - "The Last Thing She Touched" in [The Bellevue Literary Review](https://blreview.org/table-of-contents/issue-45/) (Oct 2023)

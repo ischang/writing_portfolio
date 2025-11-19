@@ -12,12 +12,11 @@ hide:
 <div markdown>
 Stephanie Isan (she/they) is the pen name of a queer Taiwanese American writer, quasi-poet, and software engineer from the San Francisco Bay Area. 
 
-Their writing has been generously supported by both [Kundiman](http://www.kundiman.org/fellows) and the [Tin House Workshop](https://tinhouse.com/workshop/), and her work is published and/or forthcoming in: *Joyland Mag*, *Split Lip*, *Five Points*, *The Bellevue Literary Review*, *Epiphany*, *Frontier Poetry*, and others. They are currently an Assistant Poetry Editor at [Barrelhouse Mag](https://www.barrelhousemag.com/about) and a Prose MFA candidate at the University of Massachusetts, Amherst. 
-
-In her free time, she likes to, in no particular order: take long walks on air-conditioned treadmills at sunset, eat oversalted soy sauce eggs with scorched rice, play video games, pet cats, dogspot, and drink sriracha straight from the bottle.
+Their writing has been generously supported by [Kundiman](http://www.kundiman.org/fellows) and the [Tin House Workshop](https://tinhouse.com/workshop/), and her work is published or forthcoming in: *Joyland Mag*, *Split Lip*, *Five Points*, *The Bellevue Literary Review*, *Epiphany*, *Frontier Poetry*, and others. She is currently an Assistant Poetry Editor at [Barrelhouse Mag](https://www.barrelhousemag.com/about) and a Prose MFA candidate at the University of Massachusetts, Amherst. 
 
 She currently lives with two cats, one beagle mix, and her husband <s>in an Asian pear tree</s> in the northeastern US. She hates cucumbers. They do not, contrary to what everyone says, taste 'just like water'.
 
+She is at work on a novel and a story collection.
 
 ## ![soy-sauce](assets/soy-sauce.png){  width="20" }Credits
 
