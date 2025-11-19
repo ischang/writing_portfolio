@@ -16,7 +16,7 @@ Their writing has been generously supported by [Kundiman](http://www.kundiman.or
 
 She currently lives with two cats, one beagle mix, and her husband <s>in an Asian pear tree</s> in the northeastern US. She hates cucumbers. They do not, contrary to what everyone says, taste 'just like water'.
 
-She is at work on a novel and a story collection.
+Stephanie is at work on a novel and a short story collection.
 
 ## ![soy-sauce](assets/soy-sauce.png){  width="20" }Credits
 
