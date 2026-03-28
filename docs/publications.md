@@ -33,15 +33,18 @@ hide:
 - Finalist, [Periplus](https://twitter.com/PeriplusCollect), Fiction 
 
 ### Fiction 
-- *Longlisted*, [Wigleaf, Top 50](https://wigleaf.com/2023longlist.htm), for "Chinese Mermaids"
+- Longlisted, [Wigleaf, Top 50](https://wigleaf.com/2023longlist.htm), for "Chinese Mermaids"
 
 ### Poetry
-- *Finalist*, [Palette Poetry 2021 Prize](https://www.palettepoetry.com/2021/11/09/winners-and-finalists-for-the-2021-palette-poetry-prize/), for "Spring Rituals"  
-- *Longlisted*, [Frontier Award for New Poets 2021](https://www.frontierpoetry.com/2021/12/13/2021-anp-winners-finalists/), for "Spring Rituals" 
+- Finalist, [Palette Poetry 2021 Prize](https://www.palettepoetry.com/2021/11/09/winners-and-finalists-for-the-2021-palette-poetry-prize/), for "Spring Rituals"  
+- Longlisted, [Frontier Award for New Poets 2021](https://www.frontierpoetry.com/2021/12/13/2021-anp-winners-finalists/), for "Spring Rituals" 
 
 ---
 
-## ![rice](assets/rice.png){  width="20" }Press
+## ![rice](assets/rice.png){  width="20" }Invited Talks & Press
 
-- [The Bellevue Literary Review](https://blreview.org/recent-news/blr-fall-2023-theartoftakingcare/), *The Art of Taking Care -- an Evening with Writers and Caregivers* (oct 2023)
+- Selected Live Lit Reader @ [UMass-Amherst Literary Arts Festival](https://www.umass.edu/english/events/2026-literary-arts-festival) (2026)
+- Honors Speaker @ Greenfield Community College: ["Creative Writing in the Age of AI"](https://www.gcc.mass.edu/events/creative-writing-in-the-age-of-ai/) (2026)
+- [5PAN @ Smith College](https://docs.google.com/document/d/1TzGk2r_ick3yKcyPOCKqThs8UEtTqiZNzeYc7f7z5-M): Panelist in *Asian American Feminist Pedagogies for Collective Care and Social Change* (2025)
+- Interviewed in [The Bellevue Literary Review](https://blreview.org/recent-news/blr-fall-2023-theartoftakingcare/): *The Art of Taking Care — an Evening with Writers and Caregivers* (2023)
 </div>
