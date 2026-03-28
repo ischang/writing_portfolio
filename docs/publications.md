@@ -43,7 +43,7 @@ hide:
 
 ## ![rice](assets/rice.png){  width="20" }Invited Talks & Press
 
-- Selected Live Lit Reader @ [UMass-Amherst Literary Arts Festival](https://www.umass.edu/english/events/2026-literary-arts-festival) (2026)
+- Selected Reader @ Live Lit, [UMass-Amherst Literary Arts Festival](https://www.umass.edu/english/events/2026-literary-arts-festival) (2026)
 - Honors Speaker @ Greenfield Community College: ["Creative Writing in the Age of AI"](https://www.gcc.mass.edu/events/creative-writing-in-the-age-of-ai/) (2026)
 - [5PAN @ Smith College](https://docs.google.com/document/d/1TzGk2r_ick3yKcyPOCKqThs8UEtTqiZNzeYc7f7z5-M): Panelist in *Asian American Feminist Pedagogies for Collective Care and Social Change* (2025)
 - Interviewed in [The Bellevue Literary Review](https://blreview.org/recent-news/blr-fall-2023-theartoftakingcare/): *The Art of Taking Care — an Evening with Writers and Caregivers* (2023)
