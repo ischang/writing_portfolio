@@ -110,6 +110,11 @@ img[alt~="boba"], img[alt~="soy-sauce"], img[alt~="eggs"], img[alt~="toaster"], 
     color: #1DA1F2;
 }
 
+/* instagram color */
+.instagram {
+    color: #f21d92
+}
+
 /* styling for different headers */
 
 /* fix issue where, in dark mode, doesn't switch colors appropriately */ 
