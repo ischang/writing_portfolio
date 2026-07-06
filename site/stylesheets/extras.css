@@ -1,0 +1,169 @@
+/* font header banner */
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+
+/* pastel pink colors for light/dark schemes */ 
+:root > * {
+  --md-primary-fg-color:        #fce1e6;
+  --md-primary-fg-color--light: #fce1e6;
+  --md-primary-fg-color--dark:  #fff7f9;
+  --md-footer-bg-color--dark: #ffebef;
+  --md-footer-bg-color--light: #ffebef;
+  --md-footer-fg-color--light: #5A5A5A;
+}
+
+/* if i want to change footer 
+.md-footer {
+    font-family: Raleway;
+    letter-spacing: 2em;
+    font-size: 0.2em;
+}
+*/
+
+/* all lowercase*/ 
+/* body {
+    text-transform: lowercase;
+}*/
+
+/* removing weird jquery logs*/
+.ui-helper-hidden-accessible{
+    display: none;
+}
+
+/* light theme colors */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color:  #fce1e6;
+  --md-default-bg-color: #f5f2f3;
+  --md-accent-fg-color: #c48b94;
+  --md-typeset-a-color: #c48b94;
+  --md-default-fg-color: #575759;
+}
+
+/* dark theme colors -- last color is for toc table */
+[data-md-color-scheme="slate"] {
+    --md-primary-fg-color: #f7dce2;
+    --md-default-bg-color: #575759;
+    --md-accent-fg-color: #FBC8DC;
+    --md-typeset-a-color: #F8C8DC;
+    --md-default-fg-color: #fcfcfc;
+}
+
+/* abt pic styling; margin-bottom allows text to wrap better*/
+#about_pic {
+    border-radius: 20px;
+    width: 230px;
+    filter: drop-shadow(1px 1px 10px gray);
+    align: left;
+    margin-bottom: 0px;
+}
+
+/* home pic styling */
+#home_pic {
+    width:125px; 
+    align: left;
+    padding-top:10px;
+    filter: drop-shadow(2px 2px 4px gray);
+}
+
+/* bullet points front page */ 
+
+/* custom bullet points */
+#aboutbullets ul, .pubs_honors ul {
+    list-style: none;
+}
+
+/* ridiculous amount of styling to indent second line of text */
+#aboutbullets ul {
+    padding: 0;
+    margin: 0;
+}
+
+#aboutbullets ul li{
+    position: relative;
+    padding-left: 2em;
+}
+
+/*\2022 is just a mini dot */
+/* to adjust bullet positioning in re: to list, adjust left and padding-left */
+#aboutbullets ul li::before {
+    content: "\2022";
+    position: absolute;
+    left: 1em;
+    color: var(--md-accent-fg-color);
+}
+
+/* custom bullets for pubs page */ 
+.pubs_honors ul li::before {
+    content: "\2022";
+    display: inline-block;
+    width: 1em;
+    margin-left: -10px;
+    color: var(--md-accent-fg-color);
+}
+
+/*css for images in front of headers; lower picture to align with headers better*/
+img[alt~="boba"], img[alt~="soy-sauce"], img[alt~="eggs"], img[alt~="toaster"], img[alt~="rice"]{
+    margin: 0px 5px -4px 0px;
+}
+
+/* twitter color */
+.bluesky {
+    color: #1DA1F2;
+}
+
+/* styling for different headers */
+
+/* fix issue where, in dark mode, doesn't switch colors appropriately */ 
+.md-nav__title {
+    color: var(--md-default-fg-color); 
+}
+
+/* accent colors for specific h1s except main page */
+h1#about, h1#publications-honors, h1#contact {
+    color: var(--md-accent-fg-color);
+}
+
+/* main page title styling -- center spacing and set color to default font */
+h1#_1 {
+    text-align: center;
+    letter-spacing: .3em;
+    color: var(--md-default-fg-color);
+}
+
+/* underline h2 */
+h2 {
+    text-decoration: underline;
+}
+
+/* i wanted closer spacing in pubs page for h2s */
+.pubs_honors h2 {
+    margin: 1.0em 0 1em 0 !important;
+    text-align: center;
+}
+
+/* accent color only for about page */
+h2#bio, h2#credits {
+    color: var(--md-accent-fg-color);
+}
+
+/* align with photo */
+h2#bio{
+    margin-top: -2px;
+}
+
+/* change accent color of h3 */
+h3 {
+    color: var(--md-accent-fg-color);
+}
+
+/* fix weird spacing between h1s*/ 
+.md-typeset h1 { 
+    margin: 0 0 0.5em 0 !important;
+}
+
+/* header for banner */
+.md-header__inner {
+    letter-spacing: .4em;
+/*    text-transform: lowercase;*/
+    font-family: Raleway;
+    color: #5A5A5A;
+}
