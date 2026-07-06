@@ -30,13 +30,15 @@ hide:
 
 ### Fellowships & Workshops
 - [Kundiman](http://www.kundiman.org/), Fiction 
-- [Tin House Summer Workshop 2024](https://tinhouse.com/workshop/summer-workshop-2/), Fiction *(with Emme Lund)*
-- [Tin House Winter Workshop 2024](https://tinhouse.com/workshop/winter-workshop/), Fiction *(with Jenny Zhang)*
-- Finalist, [Periplus](https://twitter.com/PeriplusCollect), Fiction 
+- [The Juniper Institute 2026](https://juniperinstitute.umasscreate.net/), Institute Fellow 
+- [The Kenyon Review Writers Workshop 2026](https://kenyonreview.org/adult-writers/), Fiction 
+- [Tin House Summer Workshop 2024](https://tinhouse.com/workshop/summer-workshop-2/), Fiction 
+- [Tin House Winter Workshop 2024](https://tinhouse.com/workshop/winter-workshop/), Fiction 
 
 ### Fiction 
 - Honorable Mention, [The Masters Review Winter Short Story Award 2025-2026](https://mastersreview.com/2025-2026-winter-short-story-award-for-new-writers-finalists/), for "Hulijing" 
 - Longlisted, [Wigleaf, Top 50](https://wigleaf.com/2023longlist.htm), for "Chinese Mermaids"
+- Winner, [Deborah Slosberg Award in Fiction 2026](https://www.umass.edu/english/book/mfa-program-annual-awards)
 
 ### Poetry
 - Finalist, [Palette Poetry 2021 Prize](https://www.palettepoetry.com/2021/11/09/winners-and-finalists-for-the-2021-palette-poetry-prize/), for "Spring Rituals"  
