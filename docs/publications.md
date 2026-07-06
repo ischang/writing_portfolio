@@ -10,6 +10,7 @@ hide:
 ## ![toaster](assets/toaster.png){  width="20" }Publications
 
 ### Fiction  
+- "Hulijing" in *The Masters Review* (TBD) 
 - "How to Make Non-Korean Kimchi" in [Split Lip](https://splitlipthemag.com/fiction/1125/stephanie-isan) (Nov 2025)
 - "The Real Chupa Chup" in [Five Points](https://fivepoints.gsu.edu/issue/five-points-vol-24-no-1/) (May 2025)
 - "Hey, Cam Club" in [Joyland Magazine](https://joylandmagazine.com/fiction/hey-cam-club/) (May 2024)
@@ -19,6 +20,7 @@ hide:
 - "Chinese Mermaids" in [jmww](https://jmwwblog.wordpress.com/2022/11/23/flash-fiction-chinese-mermaids-by-stephanie-isan/) (Nov 2022)
 
 ### Poetry
+- "Wild Caught" in *AGNI* (TBD)
 - "Unsung" in [Epiphany](https://epiphanyzine.com/features/2023/8/8/unsung-by-stephanie-isan) (Aug 2023)
 - "Spring Rituals" in [Frontier Poetry](https://www.frontierpoetry.com/2022/03/04/poetry-stephanie-isan/) (March 2022) 
 
@@ -33,6 +35,7 @@ hide:
 - Finalist, [Periplus](https://twitter.com/PeriplusCollect), Fiction 
 
 ### Fiction 
+- Honorable Mention, [The Masters Review Winter Short Story Award 2025-2026](https://mastersreview.com/2025-2026-winter-short-story-award-for-new-writers-finalists/), for "Hulijing" 
 - Longlisted, [Wigleaf, Top 50](https://wigleaf.com/2023longlist.htm), for "Chinese Mermaids"
 
 ### Poetry
